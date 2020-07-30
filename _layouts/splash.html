@@ -9,7 +9,9 @@ layout: default
   {% include page__hero_video.html %}
 {% endif %}
 <div id="discourse-topic-list">
-  
+  <d-topics-list discourse-url="http://forum.smonge.com/embed/topics" per-page="10" template="complete">
+  </d-topics-list>
+</div>  
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
