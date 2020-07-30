@@ -113,3 +113,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+head_scripts:
+ - http://forum.smonge.com/javascripts/embed-topics.js
