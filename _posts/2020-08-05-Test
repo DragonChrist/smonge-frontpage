@@ -1,0 +1,12 @@
+---
+layout: single
+title: Test
+comments: true
+categories:
+ - blog
+---
+Quick test of adding Discourse comments to Jekyll blog.
+
+This should create a topic within the Uncategorized category. Probably not, though, because no script is ever as easy as default configs.
+
+This is how we're doing the Writing Staff at YTPMania 2.0. Sorry for my evasiveness, Ryan. You've all been very patient, far more than I deserve. YTPMania 2.0 is still in the pipeworks. I want to be sure that when I do come back, I'll be bringing YTPMania 2.0 with me.
