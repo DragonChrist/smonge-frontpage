@@ -115,3 +115,7 @@ tag_archive:
   path: /tags/
 head_scripts:
  - http://forum.smonge.com/javascripts/embed-topics.js
+comments:
+ provider: "discourse"
+ discourse:
+  server: forum.ytpmania.net
