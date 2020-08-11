@@ -21,7 +21,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
 search: true
-url: http://smonge.com
+#url: http://smonge.com
 
 # Build settings
 markdown: kramdown
