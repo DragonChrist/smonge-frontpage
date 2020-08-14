@@ -6,10 +6,10 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@media .masthead__inner_wrap {
+/*@media .masthead__inner_wrap {
   max-width: none;
   width: 100%
-}
+}*/
 .discourse-topic-embed d-topics-list iframe{
   width: 100%;
   height: 200px;
