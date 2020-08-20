@@ -4,6 +4,14 @@
 
 @charset "utf-8";
 
+$text-color: #dddddd;
+$primary-color: #dddddd;
+$border-color: #dddddd;
+$background-color: #222222;
+$footer-background-color: #222222;
+$link-color: #0f82af;
+$masthead-link-color: #c14924;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 /*@media .masthead__inner_wrap {
