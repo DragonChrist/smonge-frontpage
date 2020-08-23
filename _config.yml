@@ -114,7 +114,7 @@ tag_archive:
   type: liquid
   path: /tags/
 head_scripts:
- - http://forum.smonge.com/javascripts/embed-topics.js
+ - https://forum.smonge.com/javascripts/embed-topics.js
 comments:
  provider: "discourse"
  discourse:
