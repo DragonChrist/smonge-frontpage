@@ -1,7 +1,7 @@
 main:
   - title: "Forum"
     url: https://forum.smonge.com
-  - title: "Posts"
+  - title: "Articles"
     url: /posts/
   - title: "Categories"
     url: /categories/
