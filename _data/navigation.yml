@@ -1,4 +1,6 @@
 main:
+  - title: "Forum"
+    url: https://forum.smonge.com
   - title: "Posts"
     url: /posts/
   - title: "Categories"
@@ -7,3 +9,13 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+    
+forum-nav:
+  - title: Forum Categories
+    children:
+      - title: "Videos"
+      - url: https://forum.smonge.com/c/videos/7
+      - title: "Blogs"
+      - url: https://forum.smonge.com/c/blog/6
+      - title: "Uncategorized"
+      - url: https://forum.smonge.com/c/uncategorized/6
