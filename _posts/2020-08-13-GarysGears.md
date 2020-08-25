@@ -5,7 +5,7 @@ comments: true
 categories:
  - blog
  - fiction
- author: CptnSmonge
+author: CptnSmonge
 ---
 
 Chapter 1
