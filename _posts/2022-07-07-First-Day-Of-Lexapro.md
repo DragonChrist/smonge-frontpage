@@ -5,9 +5,9 @@ author: CptnSmonge
 comments: true
 categories:
  - blog
- ---
+---
  
- ### First day on Lexapro
+### First day on Lexapro
  
 Okay, so it's not too much to brag about. 5mg last night at 9:00PM; it's 2:00PM as of writing this the following day. And, predictably, I'm not feeling it yet, Mr. Krabs.
  
