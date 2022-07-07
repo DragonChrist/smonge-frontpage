@@ -2,7 +2,7 @@
 layout: single
 title: First Day of Lexapro
 author: CptnSmonge
-comments: false
+comments: true
 categories:
  - blog
  ---
